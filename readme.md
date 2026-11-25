@@ -2,12 +2,12 @@
 
 ## Oldalak
 
-- Kezdőlap
-- Kosár
-- Profil
+- Kezdőlap Z
+- Kosár B
+- Profil B
 
 # Drótvázak
 
-![alt text](webaruhaz.png)
-![alt text](kosar.png)
-![alt text](image.jpg)
+![alt text](drotvazak/webaruhaz.png)
+![alt text](drotvazak/kosar.png)
+![alt text](drotvazak/Profil.png)
